@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**mike-estate-01/mike-estate-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mike — a builder who enjoys creating systems, improving workflows, and developing practical solutions that make work more efficient. My background spans real estate, digital operations, and community management, and I like working on projects where organization and problem-solving matter.
 
-Here are some ideas to get you started:
+Here are some quick points:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on refining my personal workflow tools and small automation projects.
+- I’m currently learning more about system design, data structure fundamentals, and improving development habits.
+- I’m looking to collaborate on practical tools, workflow improvements, and projects that focus on efficiency.
+- Ask me about process organization, workflow optimization, or project structure.
+- How to reach me: phyomoutsoe.fo@gmail.com
+- Pronouns: he/him
+- Fun fact: I often rebuild my own systems just to make them cleaner and simpler.
